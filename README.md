@@ -1,4 +1,4 @@
-# Hi, I'm Basma Aljashi 👋
+#  Basma Aljashi
 
 I'm a Computer Information Systems graduate from the University of Bahrain, interested in building practical digital solutions and understanding how technology, data, and business processes work together.
 
