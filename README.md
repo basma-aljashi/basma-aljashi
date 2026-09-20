@@ -65,5 +65,5 @@ Harvard · April 2024
 ## Contact
 
 Email: aljishi.basma@gmail.com  
-Phone: +966 531 880 562  
+Phone: +966531880562
 LinkedIn: https://www.linkedin.com/in/basma-aljashi
