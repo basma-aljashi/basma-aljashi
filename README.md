@@ -62,10 +62,11 @@ KFUPM · 40 hours · April 2026
 CS50: Introduction to Computer Science  
 Harvard · April 2024
 
+
 ## Contact
 
 ## Contact
 
 Email: [aljishi.basma@gmail.com](mailto:aljishi.basma@gmail.com)  
-Phone: [+966 531 880 562](tel:+966531880562)  
+Phone: +966 531 880 562  
 LinkedIn: [linkedin.com/in/basma-aljashi](https://www.linkedin.com/in/basma-aljashi)
