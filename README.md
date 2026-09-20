@@ -63,7 +63,6 @@ CS50: Introduction to Computer Science
 Harvard · April 2024
 
 
-## Contact
 
 ## Contact
 
