@@ -37,6 +37,8 @@ April 2025
 
 Designed a To-Be enterprise architecture using TOGAF and ArchiMate across 11 departments, with Apache Spark analytics to support strategic alignment.
 
+Selected among outstanding students to present the project and its findings.
+
 ### Jada30 Hackathon | 1st Place
 August 2025
 
@@ -62,10 +64,7 @@ KFUPM · 40 hours · April 2026
 CS50: Introduction to Computer Science  
 Harvard · April 2024
 
-
-
 ## Contact
 
 Email: [aljishi.basma@gmail.com](mailto:aljishi.basma@gmail.com)  
-Phone: +966 531 880 562  
-
+Phone: +966 531 880 562
