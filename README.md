@@ -1,4 +1,4 @@
-#  Welcome to my GitHub
+# Welcome to my GitHub
 
 I'm a Computer Information Systems graduate from the University of Bahrain, interested in building practical digital solutions and understanding how technology, data, and business processes work together.
 
@@ -32,12 +32,16 @@ General Education Partnership & Support Division
 
 ## Projects
 
-### Enterprise Architecture | Al Hilal Hospital
-April 2025
+### Student Tracking System | Excel
+2026
 
-Designed a To-Be enterprise architecture using TOGAF and ArchiMate across 11 departments, with Apache Spark analytics to support strategic alignment.
+Developed an Excel-based student tracking system to manage student attendance, participation scores, and performance summaries across 18 worksheets.
 
-Selected among outstanding students to present the project and its findings.
+- Automated attendance tracking and score calculations using Excel formulas.
+- Integrated attendance and participation data using student IDs.
+- Organized student records with structured worksheets, filters, and frozen headers.
+
+[View Project on GitHub](https://github.com/basma-aljashi/advantage-academy-student-tracking)
 
 ### Jada30 Hackathon | 1st Place
 August 2025
@@ -46,10 +50,26 @@ Led the technical development and UX/UI of a live Smart Returns & Refunds web ap
 
 [View Project](https://basma-aljashi.github.io/rada/)
 
-### Cloud vs. Edge Solutions for IoT
-December 2023
+### Enterprise Architecture | Al Hilal Hospital
+April 2025
 
-Explored cloud and edge computing across latency, scalability, and data handling, and proposed a hybrid architecture for real-time applications.
+Designed a To-Be enterprise architecture using TOGAF and ArchiMate across 11 departments, with Apache Spark analytics to support strategic alignment.
+
+Selected among outstanding students to present the project and its findings.
+
+[View Project on GitHub](https://github.com/basma-aljashi/al-hilal-hospital-enterprise-architecture)
+
+### Aramco Attendance System
+
+Developed a web-based attendance system with location verification, bilingual Arabic and English interfaces, attendance status tracking, failed-attempt tracking, and dark mode.
+
+[View Project on GitHub](https://github.com/basma-aljashi/Aramco-Attendance-System)
+
+### Aramco English Interactive Quiz
+
+Developed an interactive English quiz for Grade 10 students using Python and Tkinter.
+
+[View Project on GitHub](https://github.com/basma-aljashi/Aramco-English-Interactive-Quiz)
 
 ## Professional Credential
 
